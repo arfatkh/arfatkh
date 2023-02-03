@@ -15,8 +15,8 @@ One of my favorite projects is a web scrapper written in Python that scrapes and
 - Assembly Language x86
 
 ## Projects 🚀
-- [Project Name 1](https://github.com/yourusername/project-name-1)
-
+- [YTS-Scrapper](https://github.com/arfatkh/YTSDownloader)
+- [Brick-Breaker in Assembly ](https://github.com/arfatkh/BrickBreakerAssembly)
 
 ## Blogs 📝
 - [TechGlex](https://techglex.blogspot.com)
