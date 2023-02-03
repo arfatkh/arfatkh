@@ -23,7 +23,3 @@ One of my favorite projects is a web scrapper written in Python that scrapes and
 
 
 Feel free to reach out to me on [email/LinkedIn/Twitter]. I'm always open to discussing new opportunities and connecting with fellow developers 🤝.
-
-And last but not least, here's a look at my GitHub contribution graph 📊:
-
-![](https://contributions.github.com/your-username/your-repository)
