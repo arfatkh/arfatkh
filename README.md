@@ -1,6 +1,6 @@
 # A Coder with a passion 🔥, I'm Arfat
 
-As a computer science student at FAST Islamabad, I spend a lot of time coding 💻. And let me tell you, there's never a dull moment when you're surrounded by fellow coders and cutting-edge technology. 
+As a computer science student at FAST Islamabad, I've spent most of my time in front of a computer 💻.
 
 I've been coding for a while now and love to work on tech projects 💻. I have developed my blogs and other personal projects, as well as worked as a web developer for REX MEDIA GROUP 💼. 
 
