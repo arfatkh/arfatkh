@@ -12,7 +12,7 @@ One of my favorite projects is a web scrapper written in Python that scrapes and
 - Wordpress
 - Python
 - CPP
-- Python
+- Assembly Language x86
 
 ## Projects 🚀
 - [Project Name 1](https://github.com/yourusername/project-name-1)
