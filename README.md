@@ -1,4 +1,4 @@
-# Hi there! 🔥, I'm Arfat
+# Hi there!, I'm Arfat 🔥
 
 As a computer science student at FAST Islamabad, I've spent most of my time in front of a computer 💻.
 
