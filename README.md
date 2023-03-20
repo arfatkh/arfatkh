@@ -22,4 +22,4 @@ One of my favorite projects is a web scrapper written in Python that scrapes and
 - [TechGlex](https://techglex.blogspot.com)
 
 
-Feel free to reach out to me on [email/LinkedIn/Twitter]. I'm always open to discussing new opportunities and connecting with fellow developers 🤝.
+Feel free to reach out to me on [email/LinkedIn/]. I'm always open to discussing new opportunities and connecting with fellow developers 🤝.
