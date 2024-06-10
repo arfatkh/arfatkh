@@ -8,7 +8,7 @@ I've been coding for a while now and love to work on tech projects 💻. I have 
 
 One of my favorite projects is a web scrapper written in Python that scrapes and downloads movies from YTS.io 🎥. It's like having my own personal Netflix, but I don't have to share with anyone else! -->
 
-## Skills 💪
+<!-- ## Skills 💪
 - Web Development (HTML, CSS, JavaScript) 💻🎨
 - Responsive Design 
 - Wordpress
@@ -49,4 +49,4 @@ One of my favorite projects is a web scrapper written in Python that scrapes and
 ---
 Feel free to reach out to me on [email](mailto:arfat@duck.com). I'm always open to discussing new opportunities and connecting with fellow developers 🤝.
 
-
+ -->
