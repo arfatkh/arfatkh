@@ -45,7 +45,7 @@ One of my favorite projects is a web scrapper written in Python that scrapes and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfatkh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
+Feel free to reach out to me on [email](mailto:arfat@duck.com). I'm always open to discussing new opportunities and connecting with fellow developers 🤝.
 
 --->
-Feel free to reach out to me on [email](mailto:arfat@duck.com). I'm always open to discussing new opportunities and connecting with fellow developers 🤝.
 
