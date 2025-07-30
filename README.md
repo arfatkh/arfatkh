@@ -46,7 +46,6 @@ One of my favorite projects is a web scrapper written in Python that scrapes and
 
 
 
----
+--->
 Feel free to reach out to me on [email](mailto:arfat@duck.com). I'm always open to discussing new opportunities and connecting with fellow developers 🤝.
 
- -->
